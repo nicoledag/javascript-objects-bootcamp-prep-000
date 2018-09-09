@@ -11,7 +11,7 @@ return updatePlaylist
 }
 
 function removeFromPlaylist(playlist, artistName){
-delete playlist.Alison;
+delete playlist.Slowdrive;
 return removeFromPlaylist
 
 }
