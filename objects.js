@@ -9,3 +9,9 @@ playlist[" My Bloody Valentine"] = "Sometimes";
 playlist["Phil Ochs"] = "Here's to the State of Mississippi";
 return updatePlaylist
 }
+
+function removeFromPlaylist(playlist, artistName){
+delete playlist.Alison;
+playlist;
+
+}
