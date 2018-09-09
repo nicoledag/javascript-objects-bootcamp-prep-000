@@ -12,6 +12,6 @@ return updatePlaylist
 
 function removeFromPlaylist(playlist, artistName){
 delete playlist.Alison;
-playlist;
+return removeFromPlaylist
 
 }
